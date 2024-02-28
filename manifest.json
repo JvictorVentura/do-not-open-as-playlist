@@ -18,7 +18,7 @@
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "addon@example.com"
+      "id": "addon_2@example.com"
     }
   }
 
